@@ -62,3 +62,6 @@ identifier_name:
     warning: 90
     error: 120
 reporter: "xcode"
+excluded:
+  - Carthage
+  - Pods
